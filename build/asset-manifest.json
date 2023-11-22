@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3f98995.css",
-    "main.js": "/static/js/main.8c7d4742.js",
+    "main.css": "/static/css/main.d9135237.css",
+    "main.js": "/static/js/main.08853386.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/kostzy.png": "/static/media/kostzy.f3c227cd21eb53f2559d.png",
     "static/media/profile.jpeg": "/static/media/profile.ab3386f3c2e1a6f9c501.jpeg",
     "static/media/bw.png": "/static/media/bw.e8fee576f1730e889646.png",
-    "static/media/CV_YERIKHO_SUTANDI.pdf": "/static/media/CV_YERIKHO_SUTANDI.9347a9d587ec7b373537.pdf",
+    "static/media/CV_Yerikho_Sutandi.pdf": "/static/media/CV_Yerikho_Sutandi.9347a9d587ec7b373537.pdf",
     "static/media/ac_img.png": "/static/media/ac_img.e0fcaf7d7fdb913a25b8.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -18,13 +18,13 @@
     "static/media/z_ch.jpeg": "/static/media/z_ch.947f56370864791ed793.jpeg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.e3f98995.css.map": "/static/css/main.e3f98995.css.map",
-    "main.8c7d4742.js.map": "/static/js/main.8c7d4742.js.map",
+    "main.d9135237.css.map": "/static/css/main.d9135237.css.map",
+    "main.08853386.js.map": "/static/js/main.08853386.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3f98995.css",
-    "static/js/main.8c7d4742.js"
+    "static/css/main.d9135237.css",
+    "static/js/main.08853386.js"
   ]
 }
