@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import qpay from "../../Assets/qpay2.jpeg";
 import qapps from "../../Assets/qpay1.jpeg";
+import kostzy from "../../Assets/kostzy.png";
 import cp from "../../Assets/z_cp.jpeg";
 import ch from "../../Assets/z_ch.jpeg";
 import bw from "../../Assets/bw.png";
@@ -43,6 +44,16 @@ function Projects() {
               description="The Qoin app is a non-cash payment service provider that can be used anytime and anywhere. Users can securely and conveniently conduct transactions on the Qoin app with just a touch of their fingers, including purchases, bill payments, and more."
               ghLink="https://play.google.com/store/apps/details?id=id.qoin"
               demoLink="https://apps.apple.com/id/app/qoin-digital-indonesia/id1603832217"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kostzy}
+              isBlog={false}
+              title="Kostzy"
+              description="Kostzy is an application used for searching and renting dormitory online"
+              ghLink="https://play.google.com/store/apps/details?id=com.kostzy.kostzy_mobile"
             />
           </Col>
 
