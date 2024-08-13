@@ -4,6 +4,10 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import qpay from "../../Assets/qpay2.jpeg";
 import qapps from "../../Assets/qpay1.jpeg";
+import xellar1 from "../../Assets/xellar1.png";
+import xellar2 from "../../Assets/xellar2.png";
+import xellar3 from "../../Assets/xellar3.png";
+import xellar4 from "../../Assets/xellar4.png";
 import kostzy from "../../Assets/kostzy.png";
 import cp from "../../Assets/z_cp.jpeg";
 import ch from "../../Assets/z_ch.jpeg";
@@ -25,6 +29,17 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={xellar1}
+              isBlog={false}
+              title="Xellar - Crypto Wallet"
+              description="Xellar is a non-custodial Web3 wallet that prioritizes security and simplicity. Designed with the user in mind, Xellar offers an intuitive interface that makes managing your digital assets easy."
+              ghLink="https://play.google.com/store/apps/details?id=com.xellar.wallets&hl=id&pli=1"
+              demoLink="https://apps.apple.com/us/app/xellar-crypto-wallet/id1671215861"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={qpay}

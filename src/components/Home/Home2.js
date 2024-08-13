@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in
               <i>
-                <b className="purple"> dart, Javascript, Go, kotlin, java, swift, etc. </b>
+                <b className="purple"> Flutter, NodeJs, Go, kotlin, java, swift, etc. </b>
               </i>
               <br />
               <br />
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/YerikhoS"
+                  href="https://github.com/YerikhoSt"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/yerikho-sutandi-502ba2233/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/rikhoost/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
